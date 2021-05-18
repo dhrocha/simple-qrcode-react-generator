@@ -4,15 +4,15 @@ Generates a QRCODE based in value.
 
 ## How to use
 
-git clone
-yarn
-yarn start
+- git clone
+- yarn
+- yarn start
 
 ## Packages
 
-React
-Tailwind
-react-qr-code
+- React
+- Tailwind
+- qrcode.react
 
 ### Author
 
